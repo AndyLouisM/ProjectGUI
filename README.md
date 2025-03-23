@@ -9,4 +9,4 @@ A JavaFX project.
 Replace `path/to/javafx-sdk-24` with your JavaFX SDK location.
 
 ## Usage
-- Open in IntelliJ IDEA and run `ElectronicStore.java`.
+- Open in IntelliJ IDEA and run `ElectronicStoreApp.java`.
