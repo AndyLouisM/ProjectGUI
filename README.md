@@ -1,6 +1,6 @@
 # Project GUI
 
-A JavaFX project for COMP1406 2024.
+A JavaFX project.
 
 ## Setup
 1. Install **JDK 22**: [Download](https://jdk.java.net/22/).
@@ -9,4 +9,4 @@ A JavaFX project for COMP1406 2024.
 Replace `path/to/javafx-sdk-24` with your JavaFX SDK location.
 
 ## Usage
-- Open in IntelliJ IDEA and run `Main.java`.
+- Open in IntelliJ IDEA and run `ElectronicStore.java`.
